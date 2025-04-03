@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: hello-world
-          image: ruangdeploy/hello-word:latest
+          image: ruangdeploy/hello-world:latest
           ports:
             - containerPort: 3000
           env:
